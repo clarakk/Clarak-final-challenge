@@ -117,6 +117,7 @@ p.right__col {
 .button {
     text-align: center;
 }
+
 .action-btn {
     display: inline-block;
     position: relative;
@@ -129,6 +130,7 @@ p.right__col {
 
 .item {
     text-align: center;
+    padding: 0 1rem;
 }
 .item__h2 {
     color: #A59678;
@@ -137,4 +139,24 @@ p.right__col {
 
 .p__h2 {
     color:#6F737F;
+    padding:0 1rem;
+}
+.item4 {
+    text-align: left;
+    
+}
+.right {
+    background-color: #3B4050;
+    color:#fff;
+   
+}
+.right__items{       
+    font-family: "Oswald";
+    font-weight: 500;
+    font-size: 3.0rem;
+    margin: 0;
+    padding: 2rem;
+}
+
+
 }
